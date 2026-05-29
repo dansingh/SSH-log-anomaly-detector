@@ -1,6 +1,7 @@
 # SSH Log Anomaly Detector 🔐
 
 ## What it does
+It parses SSH authentication logs to detect brute-force attacks and suspicious login patterns.
 ## Installation
 ## Usage
 ## Sample output (screenshot)
